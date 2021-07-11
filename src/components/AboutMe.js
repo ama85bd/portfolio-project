@@ -21,13 +21,13 @@ export default function AboutMe() {
             Business Website, or E-commerce, I need to have a ready-made project
             layout (sketch). And I'm ready to do this for you, before we start
             developing your website, we will discuss all the details of your
-            niche with you, I will conduct a survey of your competitors and make
-            a list of their advantages and weaknesses. All this is necessary to
-            give your customers something that your competitors do not provide,
-            or to present it to, but better! After the website is finished and
-            ready to deploy and sell a product or service. It is essential that
-            your potential clients know about you. I will help you to create an
-            advertising campaign for you in Googe Adwords and Facebook!
+            niche with you, I will survey your competitors and make a list of
+            their advantages and weaknesses. All this is necessary to give your
+            customers something that your competitors do not provide, or to
+            present it to, but better! After the website is finished and ready
+            to deploy and sell a product or service. Your potential clients must
+            know about you. I will help you to create an advertising campaign
+            for you in Googe Adwords and Facebook!
           </p>
         </div>
       </div>
